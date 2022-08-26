@@ -1,11 +1,11 @@
-# html-and-css-project
-# HTML And CSS Leon Template 
+# html-and-css-project #
+# HTML And CSS Leon Template #
 This my first Project..
-learned from Osama Elzero [link](https://elzero.org/)
-==================
+learned from Osama Elzero [Elzero](https://elzero.org/)
+---
 # Links :
-* Live site URL : [link](https://hendd20.github.io/html-and-css-project/)
-======================
+* Live site URL : [Website](https://hendd20.github.io/html-and-css-project/)
+----
 #Built With:
 * HTML 
 * CSS
